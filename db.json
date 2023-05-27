@@ -1,5 +1,105 @@
 {
   "freelancers": [
-   
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 2,
+      "name": "Ranjan shah",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": false
+    },
+    {
+      "name": "Ravi",
+      "email": "kolipyakaganesh@gmail.com",
+      "profession": "Web Developer",
+      "password": "sdfghjk",
+      "hourly_rate": "34",
+      "profile_picture": "sdfghjk",
+      "skills": [
+        "HTML"
+      ],
+      "isBooked": true,
+      "id": 3
+    },
+    {
+      "name": "Sumit Koli",
+      "email": "pranjan@gmail.com",
+      "profession": "Web Developer",
+      "password": "Pranjan@1231",
+      "hourly_rate": "2",
+      "profile_picture": "dfghjk",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "isBooked": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 6,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    },
+    {
+      "name": "Patil Prajay",
+      "email": "pranjan@gmail.com",
+      "profession": "Web Developer",
+      "password": "Pranjan@1231",
+      "hourly_rate": "2",
+      "profile_picture": "dfghjk",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "isBooked": false,
+      "id": 8
+    }
   ]
 }
